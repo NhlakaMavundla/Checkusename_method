@@ -23,7 +23,7 @@ public class CheckUsername_Method {
         return false;
         }
     
-    }
+    }//End of the method
 
     public static void main(String[] args) {
         
